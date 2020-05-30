@@ -1,16 +1,19 @@
 # Global-Air-Pollution-2010-2017
-Mean Annual Exposure for 240 Countries.
 
-Kaggle Link- https://www.kaggle.com/kweinmeister/pm25-global-air-pollution-20102017
+A comprehensive analysis of Air Pollution from 2010-2017 for almost 200 countries. 
 
-Assigned to @Sourin Roy
+The kaggle kernel link - https://www.kaggle.com/sourinroy/global-air-pollution-from-2010-2017-wealthy-waste
 
-1. Plot the pollution over the years.
+The dataset used - https://www.kaggle.com/kweinmeister/pm25-global-air-pollution-20102017. 
+The dataset was modified to suit the purpose of the project. 
 
-2. Take the mean of all the data, and try to group or sort countries by thier impact on pollution.
+A brief overview of what the project covers - 
 
-3. Perform unsupervised learning to cluster countries into groups with similar trends.
+1. Plotting of data.
+2. Sorting of data to find most and least polluted countries. 
+3. Unsupervised Learning is used to cluster similar type of countries.
+4. Performing Cluster Analysis to name and label the clusters.
+5. Making a predicitve model, which on entering a new data, clusters the new country into one of the clusters above.
 
-4. Assign labels to these groups.
-
-5. Make a prediction model based on classification, that on entering the data over the individual years will classify the countries into the groups made above.
+Developed by - 
+Sourin Roy
